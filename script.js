@@ -453,9 +453,9 @@ font-weight: bold;">${grade}</span></h3>
       </div>
       <div class="results-actions">
         <button onclick="window.location.href='review.html'" class="review-btn">Review Answers</button>
-        <button onclick="window.location.href='analytics.html'" class="analytics-btn">
-          <i class="fas fa-chart-line"></i> View Performance Analytics
-        </button>
+        // <button onclick="window.location.href='analytics.html'" class="analytics-btn">
+        //   <i class="fas fa-chart-line"></i> View Performance Analytics
+        // </button>
         <button onclick="window.location.href='index.html'" class="submit-btn">Take Another Exam</button>
       </div>
     </div>
